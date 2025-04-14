@@ -5,5 +5,22 @@
     padding: 10px;
     margin-bottom: 10px;
     border: solid 1px #888;
-    background-color: #DDD8C4;
+    background-color: #b5e4e7;
   }
+.site-header{
+    letter-spacing: normal;
+    color: #FFFFFF;
+  }
+.sub-header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #FFFFFF;
+  }
+#links{
+  color: #FFFFFF;
+}
+body{
+  background-color: #0d0d0f;
+}
+#content{
+  background-color: rgb(33, 3, 102);
+}
