@@ -1,6 +1,6 @@
 // index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Author: Brielle LaPlante
+// Date: 4/21/2025
 
 // Constants
 
@@ -19,3 +19,13 @@ function main() {
 
 // let's get this party started
 main();
+
+//psuedocode for rock paper scissors:
+//
+//Create a field for player 1 input
+  //Accept user input, “rock”, “paper”, or “scissors”
+//Generate computer choice
+//Evaluate who wins 
+  //Rock beats scissors, paper beats rock, and scissors beats paper
+//Display who wins
+//Ask if the player wants to play again, and repeat from step 1 if yes.
