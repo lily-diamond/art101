@@ -5,3 +5,10 @@
 h3{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 }
+.special-button-button{
+    background-color: orange;
+}
+.special{
+    background-color: lavender;
+    font-style: italic;
+}
