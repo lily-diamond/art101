@@ -1,0 +1,48 @@
+/* Here we can set styles for this lab page that we don't want to effect others pages */
+
+/* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
+h3{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.text{
+  max-width: 500px;
+  border-style: groove;
+  
+}
+.text:nth-child(odd) {
+  text-align: left;
+}
+
+.text:nth-child(odd) {
+  background-color: rgb(221, 221, 221);
+  color: darkslategrey;
+}
+
+.text:nth-child(even) {
+  text-align: right;
+}
+
+.text:nth-child(even) {
+  background-color: #4896f0;
+  color: rgb(224, 224, 224);
+}
+#windows-xp{
+  background-color: rgb(192, 192, 192);
+}
+#chat-header{
+  text-align: center;
+  background-color: grey;
+  color: rgb(224, 224, 224);
+}
+.make-convo{
+  max-width: 506px;
+  min-width: 506px;
+  color:rgb(224, 224, 224);
+  background-color: grey;
+  border-style: groove;
+  border-color: rgb(224, 224, 224);
+}
+#output{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
